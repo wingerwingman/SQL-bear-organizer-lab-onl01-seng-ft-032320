@@ -13,7 +13,7 @@ VALUES ("Grinch", 2, "femail", "blue", "bad", true)
 INSERT INTO bears(name, age, gender, color, temperament, alive)
 VALUES ("Wendy", 2, "femail", "blue", "bad", true)
 INSERT INTO bears(name, age, gender, color, temperament, alive)
-VALUES (nil, 2, "femail", "blue", "bad", true)
+VALUES (null, 2, "femail", "blue", "bad", true)
 
 
 
