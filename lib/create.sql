@@ -9,5 +9,6 @@ class Create
   temperament TEXT,
   alive BOOLEAN
   );
+  END
 
 end
