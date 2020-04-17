@@ -1,1 +1,1 @@
-INSERT INTO bear
+INSERT INTO bears
