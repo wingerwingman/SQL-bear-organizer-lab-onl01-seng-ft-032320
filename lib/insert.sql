@@ -18,4 +18,3 @@ VALUES ("Rowdy", 2, "femail", "blue", "bad", true)
 
 
 
-Wendy
