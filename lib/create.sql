@@ -7,6 +7,4 @@ CREATE TABLE bears (
   temperament TEXT,
   alive BOOLEAN
   );
-
-
 end
