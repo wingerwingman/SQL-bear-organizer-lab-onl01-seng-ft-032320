@@ -1,6 +1,4 @@
-class Create 
-  
-  CREATE TABLE bears (
+CREATE TABLE bears (
   id INTEGER PRIMARY KEY,
   name TEXT,
   age INTEGER,
@@ -9,6 +7,6 @@ class Create
   temperament TEXT,
   alive BOOLEAN
   );
-  END
+
 
 end
